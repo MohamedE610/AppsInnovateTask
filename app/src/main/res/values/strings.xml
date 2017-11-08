@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppsInnovateTask</string>
+
+    <string name="facebook_app_id">154463905164641</string>
+    <string name="fb_login_protocol_scheme">fb154463905164641</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
